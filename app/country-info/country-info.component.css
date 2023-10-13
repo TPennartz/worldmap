@@ -1,0 +1,32 @@
+h1 {
+    font-size: 64px;
+    margin-right: 65px;
+    padding: 45px;
+    align-items: center;
+    background-color: #F7F4E9;
+    border: 5px solid gray;
+    border-radius: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.map-column{
+    width: 80%;
+    padding: 20px;
+}
+.info-column{
+    justify-self: space-between;
+}
+.info-table{
+    width: 20%;
+    padding: 10px;
+    background: #F7F4E9;
+    border: black;
+    border-radius: 10px;
+}
+body{
+    background-color: aqua;
+    border: 20px;
+    border-radius: 15px;
+}
